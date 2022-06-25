@@ -19,6 +19,69 @@ https://www.fsnnetwork.org/sites/default/files/Methodology_Guide_Nov2018508.pdf
 
 **Subjectively Evaluated Resilience Score (SERS)**: https://lindseyjonesresearchcom.files.wordpress.com/2020/09/running-the-subjectively-evaluated-resilience-score-2.pdf
 
+Inidicateurs
+
+Proportion of households with more than one source of income. 
+
+Revenu agricole annuel du ménage
+
+Proportion de ménages qui dispose d’un  membre qui est member d’un groupe d’épargne (tontine*) et ou qui fait de l’épargne sur pieds
+
+Shock exposure index
+
+Ability to recover index (TANGO 2018)
+
+% d’individus ayant des connaissances sur et des capacités à mettre en œuvre de bonnes pratiques d’adaptation au changement climatique
+
+% of households who integrate adaptation measures in their activities/livelihoods
+
+% de ménages avec un membre ayant migré ou parti en exode à cause de difficultés alimentaires
+
+Pourcentage de perte post-récolte
+
+% d’individus qui ont eu une opportunité d’emploi ou un emploi plus stable grâce aux actifs créés par le programme de resilience. 
+
+% of the population in targeted communities reporting benefits from an enhanced livelihood asset base
+
+Nombre de mois de couverture des stocks alimentaires
+
+Rendement agricole
+
+% de femmes qui disposent des conaissances de transformations de produits locaux nutritifs
+
+% de femmes qui ont intégré dans l’alimentation de leurs nourissons les produits nutritifs localement transformés. 
+
+Production maraîchère Moyenne par ménage  
+
+Proportion of households where women, men, or both women and men make decisions on the use of food / cash / vouchers, disaggregated by transfer modality (WFP 2020: 229)
+
+Reduction de la charge de travail des femmes 
+
+Proportion of women/men that feel it is possible/easy for them to raise concerns with local leaders/influential people (Suich et al. 2020: 14-15)
+
+Proportion of male-headed households where women are involved in the decision making in relation to the use of household’s resources 
+
+% of targeted communities where there is evidence of improved capacity to manage climatic shocks and risks (CCS) 
+
+%  increase in production of high quality and nutrition-dense foods 
+
+% de ménages qui ne comptent pas retirer leurs enfants de l’école pour les besoins des travaux champêtres et de l’élevage grace aux paquets intégrés (périodes de grands besoins de main d’oeuvre)
+
+Social Capital Index (TANGO 2018)
+
+Proportion of the population in targeted communities reporting environmental benefits
+
+Percentage of community members who report reduced tensions over natural resource access and use (PRO-P)
+
+Taux d’endettement des ménages/% de ménages ayant des dettes
+
+% de groupes communautaires ayant rapporté une plus forte collaboration entre transhumants et agriculteurs residents
+
+% de groupes communautaires ayant rapporté une plus forte collaboration entre déplacés et communauté hôtes
+
+Proportion of households whose children benefit from school canteens 
+
+![image](https://user-images.githubusercontent.com/107084458/175785023-407a78dd-c931-460e-a134-b8669dd7e257.png)
 
 ## Questionnaire standardisé
 
